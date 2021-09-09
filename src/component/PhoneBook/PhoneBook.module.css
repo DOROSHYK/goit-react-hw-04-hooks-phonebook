@@ -1,0 +1,31 @@
+.item {
+  list-style: none;
+}
+
+.deleteButton {
+  margin-left: auto;
+  /* color: ffff; */
+
+  font-family: inherit;
+  border-radius: 50%;
+  border-color: transparent;
+
+  max-width: 10px;
+  /* flex-direction: column; */
+  text-align: center;
+  padding: 5px 15px;
+
+  cursor: pointer;
+}
+
+.centr {
+  display: flex;
+
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.itemContainer {
+  display: inline-grid;
+  justify-content: center;
+}

@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  max-width: 1170px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 15px;
+}
+
+.title {
+  justify-content: center;
+  display: flex;
+}
